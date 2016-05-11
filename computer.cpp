@@ -7,6 +7,3 @@
 //
 
 #include "computer.hpp"
-
-//test1
-//test2
